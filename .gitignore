@@ -1,0 +1,29 @@
+# PlatformIO 生成文件（含独立示例工程）
+.pio/
+**/.pio/
+
+# macOS 文件元数据
+.DS_Store
+._*
+
+# VS Code 本机/自动生成配置；仅提交公共扩展推荐
+.vscode/*
+!.vscode/extensions.json
+
+# 本机配置及凭据文件（示例文件可提交）
+platformio.local.ini
+.env
+.env.*
+!.env.example
+
+# 本地历史备份、编辑器临时文件和日志
+备份/
+backups/
+*.bak
+*.tmp
+*.log
+*~
+
+# Python 工具缓存
+__pycache__/
+*.pyc
