@@ -22,6 +22,8 @@
 ## 硬件与接线
 ### PCB文件
 
+[下载 PCB Gerber 压缩包](hardware/Gerber_PCB1_2026-10-15.zip)（原始 ZIP 文件）。
+
 本项目使用嘉立创EDA绘制PCB。需要注意的是，关于呼吸灯部分，由于绘板失误只能飞线解决，具体方法见照片。
 
 ![PCB 背面实物与呼吸灯飞线](docs/images/pcb-back.jpg)
